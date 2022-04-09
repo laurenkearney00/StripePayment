@@ -1,0 +1,28 @@
+{
+  "name": "com.example.stripepayment",
+  "version": "1.0.0",
+  "description": "Payment App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurenkearney00/StripePayment.git"
+  },
+  "keywords": [
+    "stripe"
+  ],
+  "author": "lauren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurenkearney00/StripePayment/issues"
+  },
+  "homepage": "https://github.com/laurenkearney00/StripePayment#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.17.3",
+    "save": "^2.4.0",
+    "stripe": "^8.216.0"
+  }
+}
